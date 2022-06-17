@@ -7,7 +7,6 @@ import Pagination from "./components/Pagination";
 import React, { useEffect, useState } from "react";
 import Episode from "./Pages/EpisodePage";
 import CharacterInfo from "./Pages/CharacterInfo";
-import Inicio from "./Inicio";
 
 function App() {
   const Home = () => {
